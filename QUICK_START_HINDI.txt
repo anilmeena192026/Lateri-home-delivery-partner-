@@ -1,0 +1,15 @@
+LATERI HOME DELIVERY PARTNER
+
+सबसे आसान तरीका:
+1. इस ZIP को computer में extract करें.
+2. Computer में Node.js 20 या नया install करें.
+3. इस folder में Terminal/Command Prompt खोलें.
+4. npm start लिखकर Enter दबाएँ.
+5. Browser में http://localhost:3000 खोलें.
+
+Demo staff login:
+Admin: admin123
+Shop: shop123
+Delivery: delivery123
+
+नोट: Real OTP, UPI, Google Maps और SMS के लिए बाद में अपने accounts/API keys जोड़ने होंगे.
