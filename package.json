@@ -1,5 +1,8 @@
 {
-  "name":"lateri-home-delivery-partner","version":"2.0.0","private":true,"type":"module",
-  "scripts":{"start":"node server.js","dev":"node --watch server.js"},
-  "engines":{"node":">=20"}
+  "name":"lateri-home-delivery-partner",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Lateri Home Delivery Partner - customer, shop, delivery and admin app",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=18"}
 }
